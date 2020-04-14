@@ -14,7 +14,7 @@ Electrocardiogram (ECG) is one of the most convenient and non-invasive tools for
 
 ## What we do
 
-In this paper, we demonstrate our work on building, training, and serving such out-of-the-box cloud deep learning service for cardiac disease detection from ECG named \mname. The analytic ability of any other ECG recording devices can be enhanced by connecting to the Internet and invoke our open API. As a practical example, we also design a portable smart hardware device along with an interactive mobile program, which can collect ECG and detect potential cardiac diseases anytime and anywhere. 
+In this paper, we demonstrate our work on building, training, and serving such out-of-the-box cloud deep learning service for cardiac disease detection from ECG named CardioLearn. The analytic ability of any other ECG recording devices can be enhanced by connecting to the Internet and invoke our open API. As a practical example, we also design a portable smart hardware device along with an interactive mobile program, which can collect ECG and detect potential cardiac diseases anytime and anywhere. 
 
 
 
