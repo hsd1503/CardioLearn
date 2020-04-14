@@ -2,7 +2,7 @@
 
 Shenda Hong; Zhaoji Fu; Rongbo Zhou; Jie Yu; Yongkui Li; Kai Wang; Guanlin Cheng; CardioLearn: A Cloud Deep Learning Service for Cardiac Disease Detection from Electrocardiogram. In The World Wide Web Conference, WWW 2020, Taipei, Taiwan, April 20–24, 2020
 
-![framework](pics/fw.png | width=250)
+![framework](pics/fw.png=250x)
 
 
 ## Background
