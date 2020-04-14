@@ -1,4 +1,4 @@
-# CardioLearn: A Cloud Deep Learning Service for Cardiac Disease Detection from Electrocardiogram (WWW 2020 Demo)
+# CardioLearn
 
 You can find our online demo at [link](https://www.heartvoice.com.cn/diagnosis/en.html) .
 
