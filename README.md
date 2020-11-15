@@ -1,6 +1,6 @@
 # CardioLearn
 
-You can find our online demo at [link1](http://diagnosis.heartvoice.com.cn/diagnosis-en), [link2](https://www.heartvoice.com.cn/diagnosis/en.html) .
+You can find our online demo at [link](https://heartvoice.com.cn/diagnosis.html) .
 
 Shenda Hong; Zhaoji Fu; Rongbo Zhou; Jie Yu; Yongkui Li; Kai Wang; Guanlin Cheng; CardioLearn: A Cloud Deep Learning Service for Cardiac Disease Detection from Electrocardiogram. In The World Wide Web Conference, WWW 2020, Taipei, Taiwan, April 20–24, 2020. https://dl.acm.org/doi/abs/10.1145/3366424.3383529
 
